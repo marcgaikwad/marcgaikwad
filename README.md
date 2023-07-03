@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate *Software Developer* and this rep
 **Technologies Used:**
 - HTML: *Markup language for structuring the web pages.*
 - CSS: *Stylesheet language for visual presentation and layout.*
-- JavaScript: *Adds interactivity and enhances user experience.*
 - Bootstrap: *CSS framework for responsive and mobile-friendly design.*
 
 ### Contact Details
